@@ -1,2 +1,2 @@
-# ZERO.github.io
+# zero.github.io
 博客
